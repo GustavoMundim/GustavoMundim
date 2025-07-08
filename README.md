@@ -1,18 +1,18 @@
-<h1 align="center">👨‍💻 Gustavo Mundim</h1>
+<h1 align="center">🚀 Gustavo Mundim</h1>
 
 <p align="center">
-  Engenheiro Agrônomo em transição para a tecnologia, atualmente cursando <strong>Engenharia de Software</strong>.<br/>
-  Focado em transformar ideias em soluções inteligentes e impactantes com código limpo e tecnologias modernas.
+  Engenheiro Agrônomo e Estudante de Engenharia de Software, apaixonado por tecnologia e movido por propósito.<br/>
+  Crio soluções com foco em performance, clareza e impacto real.
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🎓 Engenheiro Agrônomo em transição de carreira para tecnologia
-- 💻 Desenvolvedor Full Stack com foco em **React, TypeScript, Django e Machine Learning**
-- 🚀 Apaixonado por aprender, criar e resolver problemas reais com software
-- 🧬 Explorando a interseção entre **inteligência artificial, ciência de dados e engenharia**
+- 🎓 Engenheiro Agrônomo e estudante de **Engenharia de Software**
+- 💻 Desenvolvedor Full Stack com foco em **React, Django, TypeScript, Python e Machine Learning**
+- 🚀 Busco resolver problemas reais com código limpo, boas práticas e visão de produto
+- 🔄 Em constante evolução, construindo projetos práticos e desafiadores
 
 ---
 
@@ -30,18 +30,26 @@
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟 Projeto em Destaque
 
 ### 🎮 [Tetris em React (Refatorado)](https://github.com/GustavoMundim/react-tetris)
-> Conversão de um projeto de Tetris em JavaScript puro para React. Componentização, hooks e organização moderna.
+> Conversão de um Tetris clássico de JavaScript puro para React. Refatorado com hooks, componentização e boas práticas.
 
 - ✅ Componentes reutilizáveis
 - ✅ Estilização com styled-components
-- ✅ Controle de jogo via React hooks
+- ✅ Controle do jogo via React hooks
 
 ---
 
+## 📌 Em Desenvolvimento
 
+- 🛠️ Painel administrativo com Context API e navegação por abas  
+- 🌱 Site institucional para o setor agro desenvolvido em React 
+- 🤖 Projeto de Machine Learning com análise e classificação de dados  
+
+> 🔔 Esses projetos serão publicados em breve. Acompanhe meu GitHub para atualizações!
+
+---
 
 ## 📊 GitHub Stats
 
@@ -59,5 +67,5 @@
 
 ---
 
-> 💬 “Transformar o simples em algo extraordinário”  
+> 🧩 “Persistência é o que transforma uma ideia comum em algo extraordinário.”  
 > — Gustavo Mundim

@@ -2,7 +2,7 @@
 
 <p align="center">
   Engenheiro Agrônomo e Estudante de Engenharia de Software, apaixonado por tecnologia e movido por propósito.<br/>
-  Crio soluções com foco em performance, clareza e impacto real.
+  Paixão por entender, criar e melhorar o mundo com tecnologia. Cada linha de código é um passo na minha jornada.
 </p>
 
 ---

@@ -1,18 +1,19 @@
 <h1 align="center">🚀 Gustavo Mundim</h1>
 
 <p align="center">
-  Engenheiro Agrônomo em transição para a tecnologia, estudante de Engenharia de Software.<br/>
-  Desenvolvedor Full Stack com foco em criar soluções eficientes e escaláveis para o mundo real.
+  Engenheiro Agrônomo em transição para a tecnologia e estudante de Engenharia de Software.<br/>
+  Apaixonado por desenvolver soluções eficientes e escaláveis, unindo dados, código limpo e propósito real.
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🎓 Engenheiro Agrônomo e estudante de **Engenharia de Software**
+- 🎓 Formação em **Engenharia Agronômica** e atualmente cursando **Engenharia de Software**
 - 💻 Desenvolvedor Full Stack com foco em **React, Django, TypeScript, Python e Machine Learning**
-- 🚀 Busco resolver problemas reais com código limpo, boas práticas e visão de produto
-- 🔄 Em constante evolução, construindo projetos práticos e desafiadores
+- 🌱 Experiência prática em projetos que envolvem **componentização**, **consumo de APIs**, **controle de estado**, **automação de tarefas** e **modelagem de dados**
+- 📈 Visão analítica com forte interesse em **ciência de dados aplicada ao mundo real**
+- 🧠 Capacidade de aprendizado contínuo, autonomia, clareza na escrita técnica e comunicação eficaz
 
 ---
 
@@ -32,22 +33,28 @@
 
 ## 🌟 Projeto em Destaque
 
-### 🎮 [Tetris em React (Refatorado)](https://github.com/GustavoMundim/react-tetris)
-> Conversão de um Tetris clássico de JavaScript puro para React. Refatorado com hooks, componentização e boas práticas.
+### 🎮 [Tetris em React – Estudo de Componentização](https://github.com/GustavoMundim/react-tetris)
+> Conversão de um projeto Tetris de JavaScript puro para React com foco em componentização, responsividade e boas práticas.
 
-- ✅ Componentes reutilizáveis
-- ✅ Estilização com styled-components
-- ✅ Controle do jogo via React hooks
+<img width="1468" height="909" alt="image" src="https://github.com/user-attachments/assets/5ecaf3dd-5947-429a-9a39-2a1b45d7f447" />
+
+
+**Destaques técnicos:**
+
+- ✅ Estrutura modular com **componentes reutilizáveis**
+- ✅ Estilização com **styled-components**
+- ✅ Gerenciamento de estado com **React Hooks**
+- ✅ Lógica de colisão, score, aceleração e reinício
 
 ---
 
 ## 📌 Em Desenvolvimento
 
-- 🛠️ Painel administrativo com Context API e navegação por abas  
-- 🌱 Site institucional para o setor agro desenvolvido em React 
-- 🤖 Projeto de Machine Learning com análise e classificação de dados  
+- 🛠️ **Painel administrativo** completo com controle global via Context API, navegação por abas e modais reutilizáveis  
+- 🌿 **Site institucional do setor agro**, utilizando React e foco em identidade visual + responsividade  
+- 🤖 **Projeto de Machine Learning** com pipeline de limpeza de dados, modelagem preditiva e validação
 
-> 🔔 Esses projetos serão publicados em breve. Acompanhe meu GitHub para atualizações!
+> 🧪 Todos os projetos em desenvolvimento são construídos com foco em clareza de código, propósito prático e evolução contínua.
 
 ---
 
@@ -67,5 +74,5 @@
 
 ---
 
-> 🧩 “Persistência é o que transforma uma ideia comum em algo extraordinário.”  
+> 💬 “Transformar dados, ideias e lógica em soluções concretas e úteis — é isso que me move todos os dias.”  
 > — Gustavo Mundim

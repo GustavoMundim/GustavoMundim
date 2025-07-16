@@ -36,7 +36,7 @@
 ### 🎮 [Tetris em React – Estudo de Componentização](https://github.com/GustavoMundim/react-tetris)
 > Conversão de um projeto Tetris de JavaScript puro para React com foco em componentização, responsividade e boas práticas.
 
-<img width="1468" height="909" alt="image" src="https://github.com/user-attachments/assets/5ecaf3dd-5947-429a-9a39-2a1b45d7f447" />
+<img width="400" height="909" alt="image" src="https://github.com/user-attachments/assets/5ecaf3dd-5947-429a-9a39-2a1b45d7f447" />
 
 
 **Destaques técnicos:**

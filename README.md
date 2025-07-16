@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Gustavo Mundim</h1>
 
 <p align="center">
-  Engenheiro Agrônomo e Estudante de Engenharia de Software, apaixonado por tecnologia e movido por propósito.<br/>
-  Paixão por entender, criar e melhorar o mundo com tecnologia. Cada linha de código é um passo na minha jornada.
+  Engenheiro Agrônomo em transição para a tecnologia, estudante de Engenharia de Software.<br/>
+  Desenvolvedor Full Stack com foco em criar soluções eficientes e escaláveis para o mundo real.
 </p>
 
 ---

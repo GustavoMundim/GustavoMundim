@@ -36,7 +36,7 @@
 ### 🎮 [Tetris em React – Estudo de Componentização](https://github.com/GustavoMundim/react-tetris)
 > Conversão de um projeto Tetris de JavaScript puro para React com foco em componentização, responsividade e boas práticas.
 
-<img width="400" height="909" alt="image" src="https://github.com/user-attachments/assets/5ecaf3dd-5947-429a-9a39-2a1b45d7f447" />
+<img width="400px" height="909px" alt="image" src="https://github.com/user-attachments/assets/5ecaf3dd-5947-429a-9a39-2a1b45d7f447" />
 
 
 **Destaques técnicos:**
@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="300px" width='300px' src="https://github-readme-stats.vercel.app/api?username=gustavomundim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="300px" width='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomundim&layout=compact&langs_count=8&theme=radical"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=gustavomundim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomundim&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 ---
